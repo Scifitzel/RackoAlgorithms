@@ -1,0 +1,35 @@
+biggest goes first vs biggest goes first
+
+505514 494486 avg. 28
+
+biggest goes first vs biggest goes first vs biggest goes first vs biggest goes first
+
+255205 253838 247707 243250 avg. 23
+
+tunnel vs tunnel 
+
+505826 vs 494172 avg.28
+
+tunnel vs tunnel vs tunnnel vs tunnel
+
+255302 vs 254867 vs 247893 vs 241938 avg.23
+
+replacement vs replacement
+
+477572 522428 avg. 12
+
+replacement vs replacement vs replacement vs replacement
+
+227321 282600 256866 233213 avg. 10
+
+biggest goes first vs tunnel vs replacement
+
+71241 69586 859173 avg. 15
+
+replacement vs tunnel vs biggest goes first 
+
+858137 73325 68538  avg. 15
+
+human vs replacement
+
+9 vs 1 avg.10
